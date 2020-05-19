@@ -42,6 +42,9 @@ Find the file `index.js` and complete the tasks.
 Edit the `ReadMe` file with your answers.
 
 1. In your own words, define closure (1-2 sentences).
+
+When an inner function has access to all of the outer functions variables and scope, even if the outer function is finished executing.  
+
 2. Study the following code, then answer the questions below.
 
 ```js
@@ -63,8 +66,15 @@ dansRoll();
 ```
 
 a. Where is closure used in this code? How can you tell?
+
+the consol log name uses a variable that is outside of the inner function.  (personalDice)
+
 b. Compare and contrast calling `dansRoll` the first and second time. What is always the same? What could change?
-c. What is the lexical scope of `newRoll`? 
+
+
+c. What is the lexical scope of `newRoll`?
+
+child scope
 
 ### Task 3 - Stretch Goals
 
