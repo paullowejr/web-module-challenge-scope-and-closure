@@ -74,7 +74,7 @@ b. Compare and contrast calling `dansRoll` the first and second time. What is al
 
 c. What is the lexical scope of `newRoll`?
 
-child scope
+Child scope
 
 ### Task 3 - Stretch Goals
 
